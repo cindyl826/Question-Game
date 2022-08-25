@@ -1,8 +1,3 @@
-// Cindy Lin
-// CSE143
-// TA:Jeremy Lipschutz
-// Take-Home Assessment #7
-//
 // This QuestionGame class represents a guessing game of 20 questions, 
 // it would generate yes/no questions for the player to answer, as well
 // as storing the questions and answers users inputted, which would 
